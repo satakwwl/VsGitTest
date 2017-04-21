@@ -11,7 +11,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
            System.Console.Write((int) DateTime.Now.DayOfWeek);
-           System.Console.ReadKey(); ;
+           System.Console.ReadKey(); ; //master
         }
     }
 }
