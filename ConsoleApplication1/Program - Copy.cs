@@ -6,12 +6,8 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication1
 {
-    class Program
+    class Program1
     {
-        static void Main(string[] args)
-        {
-           System.Console.Write((int) DateTime.Now.DayOfWeek);
-           System.Console.ReadKey();
-        }
+      
     }
 }
