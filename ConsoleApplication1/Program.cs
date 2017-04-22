@@ -13,7 +13,7 @@ namespace ConsoleApplication1
            System.Console.Write((int) DateTime.Now.DayOfWeek);
            System.Console.ReadKey(); ;
 		  
-           System.Console.ReadKey(); ; //5 //master
+           System.Console.ReadKey(); ; //5 //master push remote
 
         }
     }
